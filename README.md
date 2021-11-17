@@ -23,7 +23,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA/wD/AP+gvaeTAAABXklEQVRIie1VwYrCMBScXWwDNeihF0+9iuDN//8Dc1LoXWjxUmihSbAhZg+PLaFuq+zaLss6l6ZheJN5Q/Le9vs9xsT7qNVfAv9DYEaf3W739NJCCEznwNf8Ofx+TOugo2+MKYoiz3PnHIDlcpkkSRiGAIQQURRtNpvL5XI8HgFst1vGWJqmSqk7Ai2CIFitVgCyLAPQVidora21jLEgCAAwxqy1Wuv7DghCCM75er2O45gE2rMTwTknpVwsFvP5nHaklOTVx1AGdV2Tjz6ClBIA55xz3vIfddAHSoh8UEWq/jQBH9STKIoAOOc68X5TwL8rlCoJKKWstbf8oQzIuzFmgNO25cv+YMBBexuKoqBF0zRhGPoZ4DNnf9HBkANjzPl8zvOcfk+nU9M0HU5ZlkopKWVZlo866HuRqqo6HA6dzev1mqbpwCmnfYvGmApTOXjWJLjF3x/6L4HfF/gAZdW0zQEvo74AAAAASUVORK5CYII=">
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+        <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiv_oKqy5_0AhVVNSsKHU-2D2IYABAAGgJzZg&ohost=www.google.com&cid=CAESQeD2yOCONoIcbi4DupOmk7zdAH8V-YK2Jpb1o3QtTu2DHwU2GHd8CBTl5p3ptCAUtGR9yVXKVix60Td6DibusFw6&sig=AOD64_2ShTWyZNCW7ED9Camr_oqwdE8few&q&adurl&ved=2ahUKEwj3vfmpy5_0AhVT_XMBHQiRDiwQ0Qx6BAgCEAE" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/unity.png"/> 
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -52,8 +53,6 @@
 <a href = "https://www.linkedin.com/in/bikash-baishnab-813872192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = https://twitter.com/Bikash_30)><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/___bikash30___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://dev.to/30bikash"><img src="https://img.icons8.com/windows/32/000000/dev.png"/>
-</p>
 
 ## ❤ VIEWS AND FOLLOWERS
 
