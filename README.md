@@ -43,7 +43,7 @@
 ## MY STATS:
 
   <br/>
-    <a href="https://github.com/30-bikash/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=30-bikash&show_icons=true&count_private=true&theme=chartreuse-dark" /></a>
+    <a href="https://github.com/30-bikash/github-readme-stats"><img alt="bikash baishnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=30-bikash&show_icons=true&count_private=true&theme=chartreuse-dark" /></a>
   <a href="https://github.com/30-bikash/github-readme-stats"><img alt="bikash baishnab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30-bikash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
@@ -65,4 +65,4 @@
     <img src="https://komarev.com/ghpvc/?username=30-bikash&color=lightgrey">
 </a>
 <a href="https://github.com/30-bikash?tab=followers"><img src="https://img.shields.io/github/followers/30-bikash?label=Followers&style=social" alt="GitHub Badge"></a>
-<p><img align="center" src="https://github.com/30-bikash/30-bikash/blob/main/pop.gif" width="600"/></p>
+<p><img align="center" src="https://github.com/30-bikash/30-bikash/blob/main/pop.gif" width="400"/></p>
