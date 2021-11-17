@@ -1,4 +1,4 @@
-<p><img align= "middle" src="https://github.com/30-bikash/30-bikash/blob/main/standard.gif" width="800"/></p>
+<p><img align= "middle" src="https://github.com/30-bikash/30-bikash/blob/main/BANNER.gif" width="800"/></p>
 
 
 
