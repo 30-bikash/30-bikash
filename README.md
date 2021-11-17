@@ -1,3 +1,7 @@
+<p><img align= "center" src=""
+
+
+
 ##     ABOUT ME
 
 -  I’m currently working on **Game Design and Development**
