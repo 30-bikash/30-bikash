@@ -4,9 +4,9 @@
 
 ##     ABOUT ME
 
--  I’m currently working on **Game Design and Development**
+-  I’m currently working on **Design and Development**
 
--  I’m currently learning **Unity, AR/VR/XR, Designing**
+-  I’m currently learning **Unity, Designing, AR/VR/XR **
 
 -  I’m looking to collaborate on **OpenSource Projects**
 
