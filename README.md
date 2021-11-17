@@ -23,10 +23,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjwsfGijJ_0AhVLHSsKHVrTCYcYABAAGgJzZg&ohost=www.google.com&cid=CAESQeD2LoC8UCGmvLIa7gGX9N75vRSh2tthdodlf9sJX2dRmAkFAqCaQqFaXR9DGiaA3AwRR3_N293WftzsF1mDuA6o&sig=AOD64_3lyCVkPifxZ1BQhkWh9ohX_KnwgA&q&adurl&ved=2ahUKEwin_OiijJ_0AhUVxzgGHXobCBUQ0Qx6BAgCEAE" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<ahref="https://www.googleadservices.com/pagead/aclksa=L&ai=DChcSEwjwsfGijJ_0AhVLHSsKHVrTCYcYABAAGgJzZg&ohost=www.google.com&cid=CAESQeD2LoC8UCGmvLIa7gGX9N75vRSh2tthdodlf9sJX2dRmAkFAqCaQqFaXR9DGiaA3AwRR3_N293WftzsF1mDuA6o&sig=AOD64_3lyCVkPifxZ1BQhkWh9ohX_KnwgA&q&adurl&ved=2ahUKEwin_OiijJ_0AhUVxzgGHXobCBUQ0Qx6BAgCEAE" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
 
 </p>
 
