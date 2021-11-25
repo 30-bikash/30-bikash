@@ -37,15 +37,6 @@
     </a>
 </p>
 
-## MY STATS:
-
-  <br/>
-    <a href="https://github.com/30-bikash/github-readme-stats"><img alt="bikash baishnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=30-bikash&show_icons=true&count_private=true&theme=chartreuse-dark" /></a>
-  <a href="https://github.com/30-bikash/github-readme-stats"><img alt="bikash baishnab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=30-bikash&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-
-
 ## CONNECT WITH ME:
 
 <p align="left">
