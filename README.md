@@ -4,9 +4,9 @@
 
 ##     ABOUT ME
 
--  I’m currently working on **Design and Development**
+-  I’m currently working on **Cloud, Machine Learning**
 
--  I’m currently learning **ML, Designing, AR/VR/XR**
+-  I’m currently learning **AR/VR**
 
 -  I’m looking to collaborate on **OpenSource Projects**
 
