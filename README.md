@@ -4,13 +4,9 @@
 
 ##     ABOUT ME
 
--  I’m currently working on **Cloud, Machine Learning**
+-  I’m looking to collaborate on **OpenSource Communities**
 
--  I’m currently learning **AR/VR**
-
--  I’m looking to collaborate on **OpenSource Projects**
-
--  How to reach me **bikashbaishnab121@gmail.com**
+-  How to reach me **30bikashbaishnab@gmail.com**
 
 -  Fun fact **I love noodling guitar, and I play video games very often**
 
