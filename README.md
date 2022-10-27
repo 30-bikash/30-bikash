@@ -6,7 +6,7 @@
 
 -  I’m looking to collaborate on **OpenSource Communities**
 
--  How to reach me **30bikashbaishnab@gmail.com**
+-  I am working on web application and cloud technologies.
 
 -  Fun fact **I love noodling guitar, and I play video games very often**
 
