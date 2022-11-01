@@ -22,7 +22,7 @@
     <a href ="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <a href ="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
     <a href ="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>   
-     <a href ="https://tomcat.apache.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tomcat.png"/>
+     <a href ="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/officel/16/000000/react.png"/>
       <a href ="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
         <a href ="https://www.redhat.com/en/technologies/cloud-computing/openshift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/openshift.png"/>
      <a href ="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
