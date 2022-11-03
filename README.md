@@ -4,11 +4,11 @@
 
 ##     ABOUT ME
 
--  I’m looking to collaborate on **OpenSource Communities**
+-  **I’m looking to collaborate on OpenSource Communities**
 
--  I am working on web application and cloud technologies.
+-  **I am working on web application and cloud technologies**
 
--  Fun fact **I love noodling guitar, and I play video games very often**
+-  **CLASHING WITH DSA**
 
 ##  LANGUAGES AND TOOLS:
 
@@ -47,7 +47,7 @@
 <a href = "https://www.instagram.com/___bikash30___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://discord.gg/424cHT2t"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href ="https://bananablogs.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
-## ❤ VIEWS AND FOLLOWERS
+## ❤ VIEWS AND FOLLOWERS:
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=30-bikash&color=lightgrey">
