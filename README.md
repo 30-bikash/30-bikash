@@ -47,6 +47,10 @@
 <a href = "https://www.instagram.com/___bikash30___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://discord.gg/424cHT2t"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href ="https://bananablogs.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
+
+![snake gif](https://github.com/30-bikash/30-bikash/blob/output/github-contribution-grid-snake.gif)
+
+
 ## ❤ VIEWS AND FOLLOWERS:
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
