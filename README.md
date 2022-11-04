@@ -12,7 +12,7 @@
 
 ##  LANGUAGES AND TOOLS:
 
-<p float="left"> 
+<p float="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
