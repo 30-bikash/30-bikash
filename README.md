@@ -8,7 +8,6 @@
 
 -  **I am working on web application and cloud technologies**
 
--  **CLASHING WITH DSA**
 
 ##  LANGUAGES AND TOOLS:
 
