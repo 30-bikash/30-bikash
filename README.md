@@ -6,7 +6,7 @@
 
 -  **I’m looking to collaborate on OpenSource Communities**
 
--  **I am working on web application and cloud technologies**
+-  **I am working on web applications and cloud technologies**
 
 
 ##  LANGUAGES AND TOOLS:
@@ -47,7 +47,6 @@
 <a href ="https://discord.gg/424cHT2t"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href ="https://bananablogs.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
 
-![snake gif](https://github.com/30-bikash/30-bikash/blob/output/github-contribution-grid-snake.gif)
 
 
 ## ❤ VIEWS AND FOLLOWERS:
